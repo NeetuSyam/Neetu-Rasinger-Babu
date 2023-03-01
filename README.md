@@ -24,6 +24,8 @@ Previous position as a Software Engineer at Light Pharma Private Limited.
 🎛️ Implementing RBAC for Amazon DynamoDB database.
 
 🛍️ Generating Sales Insights using PowerBI. 
+
+
 <br />
 ### My Skill Set
 ----
