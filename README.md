@@ -30,12 +30,12 @@ Previous position as a Software Engineer at Light Pharma Private Limited.
 
 
 ### Connect with me:
---
+-----
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/neetu-rasinger-babu-99837a241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neetu-rasinger-babu-99837a241/" height="30" width="40" /></a>
 </p>
 
 
 ### Github Stats
---
+-----
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neetusyam&show_icons=true&locale=en" alt="neetusyam" /></p>
