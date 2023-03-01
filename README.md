@@ -5,7 +5,7 @@ I am actively pursuing a master's degree in San Jose State University.
 Previous position as a Software Engineer at Light Pharma Private Limited.
 
 ### I'm currently working on
--
+-----
 :speaking_head: American Sign Language to Speech Conversion System.
 
 🌎 Earthquake prediction System.
@@ -13,6 +13,7 @@ Previous position as a Software Engineer at Light Pharma Private Limited.
 🕵️  Intelligent Semantic Search.
 
 ### Previous Projects
+-----
 🛒 Analyzing Consumer Shopping Behavior from a large multi-category online store.
 
 🏨 Hotel Booking Cancellation Prediction.
@@ -22,4 +23,7 @@ Previous position as a Software Engineer at Light Pharma Private Limited.
 🎛️ Implementing RBAC for Amazon DynamoDB database.
 
 🛍️ Generating Sales Insights using PowerBI. 
+
+### My Skill Set
+-----
 
