@@ -2,7 +2,7 @@
 
 I am actively pursuing a master's degree in San Jose State University.
 
-Previous posistion as a Software Engineer at Light Pharma Private Limited
+Previous position as a Software Engineer at Light Pharma Private Limited.
 
 ### I'm currently working on
 
@@ -13,4 +13,13 @@ Previous posistion as a Software Engineer at Light Pharma Private Limited
 🕵️  Intelligent Semantic Search.
 
 ### Previous Projects
+🛒 Analyzing Consumer Shopping Behavior from a large multi-category online store.
+
+🏨 Hotel Booking Cancellation Prediction.
+
+🎛️ Implementing ABAC for MongoDB database
+
+🎛️ Implementing RBAC for Amazon DynamoDB database.
+
+🛍️ Generating Sales Insights using PowerBI. 
 
