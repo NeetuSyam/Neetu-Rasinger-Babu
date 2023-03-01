@@ -5,7 +5,7 @@ I am actively pursuing a master's degree in San Jose State University.
 Previous position as a Software Engineer at Light Pharma Private Limited.
 
 ### I'm currently working on
------
+---
 :speaking_head: American Sign Language to Speech Conversion System.
 
 🌎 Earthquake prediction System.
