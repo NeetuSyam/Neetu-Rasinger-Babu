@@ -7,5 +7,5 @@ Previous posistion as a Software Engineer at Light Pharma Private Limited
 ### I'm currently working on
 
 :speaking_head: American Sign Language to Speech Conversion.
-:earthquake: Earthquake prediction System.
+🌎 Earthquake prediction System.
 Intelligent Semantic Search
