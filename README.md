@@ -9,7 +9,7 @@ Previous position as a Software Engineer at Light Pharma Private Limited.
 ---
 :speaking_head: American Sign Language to Speech Conversion System.
 
-🌎 Earthquake prediction System.
+:speech: Speech emotion recognition using deep learning models
 
 🕵️  Intelligent Semantic Search.
 
