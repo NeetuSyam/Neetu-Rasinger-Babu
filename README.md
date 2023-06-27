@@ -1,9 +1,7 @@
 ### Hi there :wave: I'm Neetu Rasinger Babu
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/neetu-rasinger-babu-99837a241/
 ) 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/neetu-rasinger-babu-99837a241/
-) 
-
+ 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 
 I am actively pursuing a __MS in Data Analytics__ at San Jose State University. I have around two years of experience as a __Software Engineer__ at Light Pharma Private Limited. I am passionate about __Data Engineering, Data Analytics and Machine Learning__. I have a thorough understanding of Big Data, Python, SQL, Tableau, Excel, Statistics, and Machine Learning. Furthermore I have completed various realted to data in Udemy, Coursera, DataCamp, LinkedIn Learning to gain a strong theoretical foundation. Later I began to work on varoius projects to obtain practical experience.
@@ -11,6 +9,8 @@ I am actively pursuing a __MS in Data Analytics__ at San Jose State University. 
 I am currently working on __Real time American Sign Language to Speech Conversion System__, which is a computer vision and NLP related project. To enhance the functionality the sign language is converted to text and to  speech. OpenPose/OpenCV was utilized in this research to extract the key sign language points, and CNN, Transformers, and AWS Polly were used to translate the extracted features into text and speech.
 
 <h2>🪚🔧 My Skills :</h2>
+[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)]( https://www.python.org/
+) 
 [<img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>] (https://www.python.org/)
 [![<img src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>]( https://www.tensorflow.org)
 [![<img src = "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>](https://scikit-learn.org/stable/)
