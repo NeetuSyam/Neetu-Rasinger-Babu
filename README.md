@@ -29,8 +29,9 @@ I am currently working on a fascinating project focused on developing a __Real-T
 ) 
 [![](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)]( https://airflow.apache.org/
 ) 
-
 [![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)]( https://www.scipy.org
+) 
+[![](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)]( https://matplotlib.org/
 ) 
 [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)]( https://numpy.org
 ) 
