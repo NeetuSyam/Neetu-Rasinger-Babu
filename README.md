@@ -21,7 +21,7 @@ I am currently working on Real time American Sign Language to Speech Conversion 
 
 | 🛍️ [Analyzing Consumer Shopping Behavoiur On A Large Multi Category Online Store](https://github.com/NeetuSyam/Analyzing-Consumer-Shopping-Behavior-from-a-large-multi-category-online-store)| 🧑‍🎓 [Building A CI/CD Pipeline](https://github.com/NeetuSyam/mlproject)|
 | :-:| :-:| 
-| [<img src = "![shopping](https://github.com/NeetuSyam/Analyzing-Consumer-Shopping-Behavior-from-a-large-multi-category-online-store/assets/104735157/0c206ae0-69b2-4e5a-8f4e-38ca309068bd" width = 500 height = 300/>](https://github.com/NeetuSyam/Analyzing-Consumer-Shopping-Behavior-from-a-large-multi-category-online-store)| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/fitsum-admasu-oGv9xIl7DkY-unsplash-min.jpg" width = 500 height = 300/>](https://github.com/NeetuSyam/mlproject)
+| [<img src = "![shopping]("https://github.com/NeetuSyam/Analyzing-Consumer-Shopping-Behavior-from-a-large-multi-category-online-store/assets/104735157/0c206ae0-69b2-4e5a-8f4e-38ca309068bd" width = 500 height = 300/>](https://github.com/NeetuSyam/Analyzing-Consumer-Shopping-Behavior-from-a-large-multi-category-online-store)| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/fitsum-admasu-oGv9xIl7DkY-unsplash-min.jpg" width = 500 height = 300/>](https://github.com/NeetuSyam/mlproject)
 
 
 
