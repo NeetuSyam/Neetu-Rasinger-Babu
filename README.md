@@ -1,6 +1,8 @@
 ### Hi there :wave: I'm Neetu Rasinger Babu
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/neetu-rasinger-babu-99837a241/
 ) 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/neetu-rasinger-babu-99837a241/
+) 
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 
