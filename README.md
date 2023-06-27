@@ -19,12 +19,16 @@ I am currently working on __Real time American Sign Language to Speech Conversio
 ) [![](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)]( https://spark.apache.org/
 ) 
 [![](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)]( https://kafka.apache.org/
-) [![](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)]( https://flask.palletsprojects.com/en/2.3.x/
+)
+[![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]( https://www.mysql.com
+) 
+[![](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)]( https://flask.palletsprojects.com/en/2.3.x/
 ) [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)]( https://www.tableau.com
 ) 
 [![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]( https://scikit-learn.org/stable/
 ) 
-
+[![](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)]( https://airflow.apache.org/
+) 
 
 [![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)]( https://www.scipy.org
 ) 
@@ -42,19 +46,17 @@ I am currently working on __Real time American Sign Language to Speech Conversio
 ) 
 [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]( https://www.microsoft.com/en-us/microsoft-365/excel
 ) 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/neetu-rasinger-babu-99837a241/
-) 
 [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)]( https://colab.research.google.com
 ) 
 [![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)]( https://www.microsoft.com/en-us/microsoft-365/powerpoint
 ) 
 [![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)]( https://www.office.com
 ) 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/neetu-rasinger-babu-99837a241/
+[![](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)]( https://git-scm.com/
 ) 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/neetu-rasinger-babu-99837a241/
+[![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)]( https://pytorch.org
 ) 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/neetu-rasinger-babu-99837a241/
+[![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)]( https://www.typescriptlang.org/
 ) 
 [![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]( https://html.com/html5/
 ) 
@@ -64,17 +66,8 @@ I am currently working on __Real time American Sign Language to Speech Conversio
 ) 
 [![](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)]( https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
 ) 
-
-
- 
- 
-[![<img src = "https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>](https://pytorch.org) 
-[<img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>](https://www.mongodb.com/) 
-
-
-[<img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com) 
-
-
+[![](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)]( https://angular.io/
+) 
 
 <h2 align = "center">Projects </h2> 
 
