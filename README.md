@@ -23,7 +23,9 @@ I am currently working on Real time American Sign Language to Speech Conversion 
 
 
 
-
+| 🧑‍🏭 [Analyzing Employers Salary Using Pyspark](https://github.com/NeetuSyam/Analyzing-Employeers-Salary-Using-PySpark)| 😓 [Real time Weather Data Analysis Using Apache Kafka](https://github.com/NeetuSyam/Real-time-Weather-Data-Analysis-Using-Apache-Kafka)|
+| :-:| :-:| 
+| [<img src = "https://github.com/NeetuSyam/Analyzing-Employeers-Salary-Using-PySpark/blob/main/employee_salary.jpg" width = 500 height = 300/>](https://github.com/NeetuSyam/Analyzing-Employeers-Salary-Using-PySpark)| [<img src = "https://github.com/NeetuSyam/Real-time-Weather-Data-Analysis-Using-Apache-Kafka/blob/main/weather.jpg" width = 500 height = 300/>](https://github.com/NeetuSyam/Real-time-Weather-Data-Analysis-Using-Apache-Kafka)
 
 
 
