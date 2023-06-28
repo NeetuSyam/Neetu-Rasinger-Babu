@@ -91,7 +91,7 @@ I am currently working on a fascinating project focused on developing a __Real-T
 | [<img src = "https://github.com/NeetuSyam/Hotel-Booking-Cancellation-Prediction/blob/main/hotel.jpg" width = 500 height = 300/>](https://github.com/NeetuSyam/Hotel-Booking-Cancellation-Prediction)| [<img src = "https://github.com/NeetuSyam/Speech-Emotion-Recognition-Using-Deep-Learning-Models/blob/main/speech.png" width = 500 height = 300/>](https://github.com/NeetuSyam/Speech-Emotion-Recognition-Using-Deep-Learning-Models)
 
 
-| 📕 [Intelligent Semantic Search System](https://github.com/NeetuSyam/Intelligent-Sematic-Serach-System)|  [ ]()|
+| 📕 [Intelligent Semantic Search System](https://github.com/NeetuSyam/Intelligent-Sematic-Serach-System)|  [Amazon Data WebScraping ](https://github.com/NeetuSyam/Amazon-Data-Webscraping)|
 | :-:| :-:| 
-| [<img src = "https://github.com/NeetuSyam/Intelligent-Sematic-Serach-System/blob/main/charlesdeluvio-leqrylJNYUQ-unsplash.jpg" width = 500 height = 300/>](https://github.com/NeetuSyam/Intelligent-Sematic-Serach-System)| [<img src = "" width = 500 height = 300/>]()
+| [<img src = "https://github.com/NeetuSyam/Intelligent-Sematic-Serach-System/blob/main/charlesdeluvio-leqrylJNYUQ-unsplash.jpg" width = 500 height = 300/>](https://github.com/NeetuSyam/Intelligent-Sematic-Serach-System)| [<img src = "https://github.com/NeetuSyam/Amazon-Data-Webscraping/blob/main/amazon.jpg" width = 500 height = 300/>](https://github.com/NeetuSyam/Amazon-Data-Webscraping)
 
