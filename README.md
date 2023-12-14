@@ -97,5 +97,5 @@ I am currently working on a fascinating project focused on developing a __Real-T
 
 | 🛍️ [Walmart Sales Prediction](https://github.com/NeetuSyam/Walmart-Sales-Prediction)|  
 | :-:| 
-| [<img src = "https://github.com/NeetuSyam/Walmart-Sales-Prediction/blob/main/walmartsales.pnglJNYUQ-unsplash.jpg" width = 500 height = 300/>](https://github.com/NeetuSyam/Walmart-Sales-Prediction)
+| [<img src = "https://github.com/NeetuSyam/Walmart-Sales-Prediction/blob/main/walmartsales.png" width = 500 height = 300/>](https://github.com/NeetuSyam/Walmart-Sales-Prediction)
 
