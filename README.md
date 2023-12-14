@@ -96,6 +96,6 @@ I am currently working on a fascinating project focused on developing a __Real-T
 | [<img src = "https://github.com/NeetuSyam/Intelligent-Sematic-Serach-System/blob/main/charlesdeluvio-leqrylJNYUQ-unsplash.jpg" width = 500 height = 300/>](https://github.com/NeetuSyam/Intelligent-Sematic-Serach-System)| [<img src = "https://github.com/NeetuSyam/Amazon-Data-Webscraping/blob/main/amazon.jpg" width = 500 height = 300/>](https://github.com/NeetuSyam/Amazon-Data-Webscraping)
 
 | 🛍️ [Walmart Sales Prediction](https://github.com/NeetuSyam/Walmart-Sales-Prediction)|  
-| :-:| :-:| 
-| [<img src = "https://github.com/NeetuSyam/Walmart-Sales-Prediction/blob/main/walmartsales.pnglJNYUQ-unsplash.jpg" width = 500 height = 300/>](https://github.com/NeetuSyam/Walmart-Sales-Prediction)| 
+| :-:| 
+| [<img src = "https://github.com/NeetuSyam/Walmart-Sales-Prediction/blob/main/walmartsales.pnglJNYUQ-unsplash.jpg" width = 500 height = 300/>](https://github.com/NeetuSyam/Walmart-Sales-Prediction)
 
